@@ -1,4 +1,4 @@
 node_modules
 
-.bundle
-.package-lock.json
+bundle
+package-lock*
