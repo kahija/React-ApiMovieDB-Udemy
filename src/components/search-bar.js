@@ -4,7 +4,7 @@ class SearchBar extends Component{
     constructor(props){
         super(props);
         this.state = {searchText:"",
-        placeHolder:"Tapez votre film...",
+        placeHolder:"Rechercher un film...",
         intervalBeforeRequest:1000,
         lockRequest:false}
     }

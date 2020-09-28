@@ -3,13 +3,12 @@ import SearchBar from "../components/search-bar";
 import VideoList from "./video-list";
 import VideoDetail from "../components/video-detail";
 import Video from "../components/video";
-import "../style/style.css"
 
 import axios from "axios";
+import _ from 'lodash'
 
 const API_END_POINT = "https://api.themoviedb.org/3/";
 const POPULAR_MOVIES_URL ="discover/movie?language=fr&sort_by=popularity.desc&include_adult=false&append_to_response=images";
-// const MOVIE_VIDEO_URL="append_to_response=videos&include_adult=false"
 const SEARCH_URL="search/movie?language=fr&include_adult=false"
 const API_KEY = "api_key=cb5b197ef80c1630130932dc71d7d880";
 

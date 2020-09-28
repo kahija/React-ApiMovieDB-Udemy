@@ -1,5 +1,5 @@
 import React from "react";
-import "../style/style.css"
+
 const IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500/";
 
 const VideoListItem = (props) => {
@@ -9,11 +9,11 @@ const VideoListItem = (props) => {
       <div className="media">
         <div className="media-left">
           <img
-            alt="img film"
             className="media-object img-rounded"
-            heigth="100 px"
             width="100 px"
+            heigth="100 px"
             src={`${IMAGE_BASE_URL}${movie.poster_path}`}
+            alt="img film"
           />
         </div>
 
