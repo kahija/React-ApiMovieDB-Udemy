@@ -43,13 +43,9 @@
   "description": "Section 2 :Projet d'intro React - Netflix de bande annonce 18 / 18|1 h 56 min",
   "main": "bundle.js",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kahija/React-ApiMovieDB-Udemy.git"
+    "type": "git"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kahija/React-ApiMovieDB-Udemy/issues"
-  },
-  "homepage": "https://github.com/kahija/React-ApiMovieDB-Udemy#readme"
+  "license": "ISC"
+  
 }
