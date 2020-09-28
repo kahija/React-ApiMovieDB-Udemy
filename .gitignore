@@ -1,4 +1,6 @@
-node_modules
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
 
-bundle.js
-package-lock*
+/node_modules/
