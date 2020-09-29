@@ -36,9 +36,7 @@
     "postinstall": "webpack -p",
     "start": "node server.js",
     "babel-version": "babel --version",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "test": "react-scripts test --env=jsdom"
   },
   "description": "Section 2 :Projet d'intro React - Netflix de bande annonce 18 / 18|1 h 56 min",
   "main": "bundle.js",
