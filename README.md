@@ -1,6 +1,7 @@
 # Contenu cours
+Heroku: https://react-apimoviedb-udemy.herokuapp.com
 
-Section 2 :Projet d'intro React -
+Section 2 :Projet d' intro React -
 Netflix de bande annonce
 18 / 18|1 h 56 min
 
